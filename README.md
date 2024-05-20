@@ -3,9 +3,9 @@
 [![Vk: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-vk-circled-22.png)](https://vk.com/la6ko)
 [![GitHub Aleksei Lashko](https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social)](https://github.com/LASHKOAG)
 
-
-<a href="https://github.com/LASHKOAG" target="blank"><img align="center" src="https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social" height="16" /></a>
 <!--
+<a href="https://github.com/LASHKOAG" target="blank"><img align="center" src="https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social" height="16" /></a>
+
 "https://www.google.com/
 src="https://img.icons8.com/color/344/telegram-app--v1.png"
 **LASHKOAG/LASHKOAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
