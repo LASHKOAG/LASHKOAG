@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aleksei Lashko
 
-[![Vk: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-vk-circled-48.png)](https://vk.com/la6ko)
+[![Vk: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-vk-circled-20.png)](https://vk.com/la6ko)
 [![GitHub Aleksei Lashko](https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social)](https://github.com/LASHKOAG)
 
 
