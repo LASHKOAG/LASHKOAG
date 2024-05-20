@@ -2,8 +2,9 @@
 
 [![Vk: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-vk-circled-48.png)](https://vk.com/la6ko)
 
-<a href="https://vk.com/la6ko" target="blank"><img align="center" src="https://icons8.com/icon/114452/vk-circled" height="100" /></a>
 <!--
+<a href="https://vk.com/la6ko" target="blank"><img align="center" src="https://icons8.com/icon/114452/vk-circled" height="100" /></a>
+
 "https://www.google.com/
 src="https://img.icons8.com/color/344/telegram-app--v1.png"
 **LASHKOAG/LASHKOAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔧 My Tech Stack
+## 👓︎ 🔧 My Tech Stack
 
 - **Platforms**: Desktop/Embedded App Development
 - **Framework**: Qt C++/Python | Qt Widgets | Qt Quick/QML
