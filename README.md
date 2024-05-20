@@ -16,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔧 My Tech Stack
+
+- **Platforms**: Desktop/Embedded App Development
+- **Framework**: Qt C++/Python | Qt Widgets | Qt Quick/QML
+- **Languages**: C, C++, Bash, Python
+- **UI/UX Design**: Qt Framework, QML, Figma
+- **Operating Systems**: Linux, Embedded Linux, Windows
+- **Version Control**: Git
+- **Databases**: PostgreSQL | SQLite
+- **Hardware**: Arduino, ESP32, Stm32, Raspberry Pi
+- **Tools**: VS-Code, Qt Creator IDE
+- **3D Modeling**: Kompas-3D, SolidWorks, Autodesk AutoCAD
