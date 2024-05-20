@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aleksei Lashko
 <a href="https://vk.com/la6ko" target="blank"><img align="center" src="https://icons8.com/icon/114452/vk-circled" height="100" /></a>
 <!--
 "https://www.google.com/
