@@ -4,7 +4,7 @@
 [![GitHub Aleksei Lashko](https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social)](https://github.com/LASHKOAG)
 
 
-<a href="https://github.com/LASHKOAG" target="blank"><img align="center" src="https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social" height="48" /></a>
+<a href="https://github.com/LASHKOAG" target="blank"><img align="center" src="https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social" height="24" /></a>
 <!--
 "https://www.google.com/
 src="https://img.icons8.com/color/344/telegram-app--v1.png"
