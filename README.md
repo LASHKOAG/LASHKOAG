@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 
 - **Platforms**: Desktop/Embedded App Development
 - **Framework**: Qt C++/Python | Qt Widgets | Qt Quick/QML
+- **Framework for Stm32**: MBED, FreeRTOS, HAL
 - **Languages**: C, C++, Bash, Python
 - **UI/UX Design**: Qt Framework, QML, Figma
-- **Operating Systems**: Linux, Embedded Linux, Windows
+- **Operating Systems**: Linux, Embedded Linux, FreeRTOS
 - **Version Control**: Git
 - **Databases**: PostgreSQL | SQLite
 - **Hardware**: Arduino, ESP32, Stm32, Raspberry Pi
-- **Tools**: VS-Code, Qt Creator IDE
+- **Tools for Esp32/Arduino**: PlatformIO
+- **Tools**: CubeIDE, VS-Code, Qt Creator IDE
 - **3D Modeling**: Kompas-3D, SolidWorks, Autodesk AutoCAD
+- **ASTRA LINUX**: App Development
