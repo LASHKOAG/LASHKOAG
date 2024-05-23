@@ -22,6 +22,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=qt,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=qt,c,cpp,linux,bash,python,postgres" /><br>
+</div>
+
+<br/>
+<hr/>
+
 ## 👓︎ 🔧 My Tech Stack
 
 - **Platforms**: Desktop/Embedded App Development
