@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 - **Reverse engineering**
 
 # My own robotics classroom
-<br/>
+
 - **Educational project**: C, Arduino/Raspberrypi, Bash, Python, Electrical engineering
 - **Languages**: C, pure C (for AVR)
 - **Version Control**: GitHub
