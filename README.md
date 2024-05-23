@@ -65,14 +65,13 @@ Here are some ideas to get you started:
 - [Test3](#test3)
 
 # AGK
-
-IoT project
-
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,linux,bash,python,sqlite,raspberrypi" /><br>
     <br/>
 </div>
+
+**IoT project**
 
 <br/>
 
