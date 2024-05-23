@@ -64,14 +64,13 @@ Here are some ideas to get you started:
 - [Test2](#test2)
 - [Test3](#test3)
 
-# AGK
+# AGK - IoT project
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,linux,bash,python,sqlite,raspberrypi" /><br>
-    <br/>
 </div>
 
-**IoT project**
+- **IoT project**: C, Embedded linux, Bash, Python, Sqlite, Raspberrypi, Zigbee
 
 <br/>
 
