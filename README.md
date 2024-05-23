@@ -71,14 +71,14 @@ Here are some ideas to get you started:
 </div>
 
 - **IoT project**: C, Embedded linux, Bash, Python, Sqlite, Raspberrypi, Zigbee
-- **Platforms**: Embedded linux App Development
+- **UI/UX Design**: No display, no GUI
 - **Operating Systems**: Embedded Linux
 - **Languages**: C, Bash, Python
-- **UI/UX Design**: No
 - **Version Control**: Bitbucket
 - **Databases**: SQLite
-- **Tools**: Qt Creator IDE
-- **Hardware**: PLC(programmable logic controller), Industrial modem, RS485, RS232, COM-ports, Sensors(Lufft and etc), UMB-protocol, Nmea-protocol, Camera (foto/video), E-mail send data,  Zigbee
+- **Hardware**: PLC(programmable logic controller: Advantech ADAM-3600), Industrial modem, RS485, RS232, COM-ports, Sensors(Lufft and etc), UMB-protocol, Nmea-protocol, Camera (foto/video), E-mail send data,  Zigbee
+<br/>
+- **Reverse engineering**
 
 <br/>
 
