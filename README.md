@@ -2,7 +2,7 @@
 
 [![Vk: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-vk-circled-22.png)](https://vk.com/la6ko)
 [![GitHub Aleksei Lashko](https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social)](https://github.com/LASHKOAG)
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LASHKOAG.LASHKOAG" />
 <!--
 <a href="https://github.com/LASHKOAG" target="blank"><img align="center" src="https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social" height="16" /></a>
 
