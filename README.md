@@ -61,8 +61,7 @@ Here are some ideas to get you started:
 # Docs
 
 - [AGK](#agk)
-- [Test2](#test2)
-- [Test3](#test3)
+- [My own robotics classroom](#my-own-robotics-classroom)
 
 # AGK - IoT project
 <br/>
@@ -79,8 +78,16 @@ Here are some ideas to get you started:
 - **Hardware**: PLC(programmable logic controller: Advantech ADAM-3600), Industrial modem, RS485, RS232, COM-ports, Sensors(Lufft and etc), UMB-protocol, Nmea-protocol, Camera (foto/video), E-mail send data,  Zigbee<br>
 - **Reverse engineering**
 
+# My own robotics classroom
+<br/>
+- **Educational project**: C, Arduino/Raspberrypi, Bash, Python, Electrical engineering
+- **Languages**: C, pure C (for AVR)
+- **Version Control**: GitHub
+- **Hardware**: Arduino, Sensors, SPI, I2C, NRF24 and etc
+- **Hardware**: Stm32 - HAL, MBED
+- **Hardware**:LEGO Education MINDSTORMS
+- **DIY**: create own mobile robots with students/pupil, PCB Etching
+- **Participation in competitions**
+- **RoboSport**
 
-
-# Test2
-# Test3
 
