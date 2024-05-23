@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 - **Version Control**: Bitbucket
 - **Databases**: SQLite
 - **Hardware**: PLC(programmable logic controller: Advantech ADAM-3600), Industrial modem, RS485, RS232, COM-ports, Sensors(Lufft and etc), UMB-protocol, Nmea-protocol, Camera (foto/video), E-mail send data,  Zigbee
-<br/>
+<br>
 - **Reverse engineering**
 
 <br/>
