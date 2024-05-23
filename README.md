@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 # Docs
 
-- [AGK - IoT project](#agk)
+- [AGK - IoT project](#agk---iot-project)
 - [My own robotics classroom](#my-own-robotics-classroom)
 
 # AGK - IoT project
