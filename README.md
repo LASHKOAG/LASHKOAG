@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 - **Languages**: C, Bash, Python
 - **Version Control**: Bitbucket
 - **Databases**: SQLite
-- **Hardware**: PLC(programmable logic controller: Advantech ADAM-3600), Industrial modem, RS485, RS232, COM-ports, Sensors(Lufft and etc), UMB-protocol, Nmea-protocol, Camera (foto/video), E-mail send data,  Zigbee
-<br>
+- **Hardware**: PLC(programmable logic controller: Advantech ADAM-3600), Industrial modem, RS485, RS232, COM-ports, Sensors(Lufft and etc), UMB-protocol, Nmea-protocol, Camera (foto/video), E-mail send data,  Zigbee<br>
+
 - **Reverse engineering**
 
-<br/>
+
 
 # Test2
 # Test3
