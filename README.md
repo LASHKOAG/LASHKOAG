@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=qt,vscode,github,ubuntu,raspberrypi,matlab,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,matlab,arduino" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=qt,c,cpp,linux,bash,python,postgres,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=qt,c,cpp,bash,python,postgres,sqlite" /><br>
 </div>
 
 <br/>
@@ -38,24 +38,24 @@ Here are some ideas to get you started:
 ## 👓︎ 🔧 My Tech Stack
 
 - **Platforms**: Desktop/Embedded App Development
+
 - **Framework**: Qt C++ | Qt Widgets | Qt Quick/QML
 
 - **Operating Systems**: Linux, Embedded Linux, FreeRTOS
+
 - **ASTRA LINUX**: App Development
 
 - **Languages**: C, C++, Bash, Python
-- **UI/UX Design**: Qt Framework, QML, Figma
+
+- **UI/UX Design**: Qt Framework, QML
 
 - **Framework for Stm32**: MBED, FreeRTOS, HAL
 
-- **Version Control**: Git
 - **Databases**: PostgreSQL | SQLite
 
-- **Hardware**: Arduino, ESP32, Stm32, Raspberry Pi
-- **Tools**: CubeIDE, VS-Code, Qt Creator IDE
-- **Tools for Esp32/Arduino**: PlatformIO
+- **Hardware**: Arduino, ESP32, Stm32, Raspberry Pi, Yocto, Advantech and etc
 
-- **3D Modeling**: Kompas-3D, SolidWorks, Autodesk AutoCAD
+- **3D Modeling**: Kompas-3D, SolidWorks
 
 
 # Docs
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 # AGK - IoT project
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,linux,bash,python,sqlite,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=c,linux,bash,python,sqlite" /><br>
 </div>
 
 - **IoT project**: C, Embedded linux, Bash, Python, Sqlite, Raspberrypi, Zigbee
