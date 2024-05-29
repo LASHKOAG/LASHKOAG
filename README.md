@@ -91,6 +91,9 @@ Here are some ideas to get you started:
 - **Participation in competitions**
 - **RoboSport**
 
+![](./source/mobile_robot_1.png)
+
+
 # Qml Charts - Digital signal processing(DSP)
 
 - **Qt | QML | Desktop App | ASTRA LINUX | C/C++ | MATLAB**
