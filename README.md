@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 # Qml Charts - Digital signal processing(DSP)
 
-Qt | QML | Desktop App | ASTRA LINUX | C/C++ | MATLAB 
+- **Qt | QML | Desktop App | ASTRA LINUX | C/C++ | MATLAB**
 
 ![](./source/qml_charts_digital_signal_1.png)
 
