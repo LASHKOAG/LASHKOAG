@@ -2,6 +2,7 @@
 
 [![Vk: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-vk-circled-26.png)](https://vk.com/la6ko)
 [![Dzen: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/dzen-24.png)](https://dzen.ru/id/5ee1b56d02f32409b790b4f0)
+[![YouTube: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-youtube-24.png)](https://www.youtube.com/@robo_omsk)
 [![GitHub Aleksei Lashko](https://img.shields.io/github/followers/LASHKOAG?label=follow&style=social)](https://github.com/LASHKOAG)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LASHKOAG.LASHKOAG" />
 <!--
