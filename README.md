@@ -97,4 +97,7 @@ Here are some ideas to get you started:
 - **Platforms**: Desktop App Development for **ASTRA LINUX**
 - **Aditionally**: MATLAB coding
 
+![](./source/qml_charts_digital_signal_1.png)
+
+
 
