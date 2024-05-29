@@ -93,9 +93,7 @@ Here are some ideas to get you started:
 
 # Qml Charts - Digital signal processing(DSP)
 
-- **UI/UX Design**: Qt Framework, QML
-- **Platforms**: Desktop App Development for **ASTRA LINUX**
-- **Aditionally**: MATLAB coding
+Qt | QML | Desktop App | ASTRA LINUX | C/C++ | MATLAB 
 
 ![](./source/qml_charts_digital_signal_1.png)
 
