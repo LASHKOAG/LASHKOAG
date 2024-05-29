@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 - [AGK - IoT project](#agk---iot-project)
 - [My own robotics classroom](#my-own-robotics-classroom)
+- [Qml Charts - Digital signal processing(DSP)](#Qml-Charts---Digital-signal-processing(DSP))
 
 # AGK - IoT project
 <br/>
@@ -89,5 +90,11 @@ Here are some ideas to get you started:
 - **DIY**: create own mobile robots with students/pupil, PCB Etching
 - **Participation in competitions**
 - **RoboSport**
+
+# Qml Charts - Digital signal processing(DSP)
+
+- **UI/UX Design**: Qt Framework, QML
+- **Platforms**: Desktop App Development for **ASTRA LINUX**
+- **Aditionally**: MATLAB coding
 
 
