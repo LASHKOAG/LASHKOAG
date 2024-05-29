@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 - [AGK - IoT project](#agk---iot-project)
 - [My own robotics classroom](#my-own-robotics-classroom)
-- [Qml Charts - Digital signal processing(DSP)](#Qml-Charts---Digital-signal-processing(DSP))
+- [Qml Charts - Digital signal processing(DSP)](#Qml-Charts---Digital-signal-processingDSP)
 
 # AGK - IoT project
 <br/>
