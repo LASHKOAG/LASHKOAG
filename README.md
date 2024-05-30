@@ -83,6 +83,9 @@ Here are some ideas to get you started:
 - **Hardware**: PLC(programmable logic controller: Advantech ADAM-3600), Industrial modem, RS485, RS232, COM-ports, Sensors(Lufft and etc), UMB-protocol, Nmea-protocol, Camera (foto/video), E-mail send data,  Zigbee<br>
 - **Reverse engineering**
 
+![](./source/adms_1.jpg)
+
+
 # My own robotics classroom
 
 - **Educational project**: C, Arduino/Raspberrypi, Bash, Python, Electrical engineering
