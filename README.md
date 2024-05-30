@@ -1,5 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aleksei Lashko
 
+![](./source/lashko_1.jpg)
+
 [![Vk: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-vk-circled-26.png)](https://vk.com/la6ko)
 [![Dzen: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/dzen-24.png)](https://dzen.ru/id/5ee1b56d02f32409b790b4f0)
 [![YouTube: Aleksei Lashko](https://github.com/LASHKOAG/LASHKOAG/blob/main/source/icons8-youtube-24.png)](https://www.youtube.com/@robo_omsk)
